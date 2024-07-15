@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cedex_tap_bot?start=1717782181979387)
 
-<img src="https://github.com/user-attachments/assets/24e85de0-0a00-43ba-a59c-a0030accf47e"/>  
+<img src="https://github.com/user-attachments/assets/24e85de0-0a00-43ba-a59c-a0030accf47e"/><br>
 ## Additional information  
 Special thanks to https://t.me/hidden_coding and @AlexKrutoy  
 Fork provided as is  
