@@ -1,7 +1,7 @@
 version: '3'
 services:
   bot:
-    container_name: 'CEX.IO-bot'
+    container_name: 'CEDEX-bot'
     build:
       context: .
     stop_signal: SIGINT
