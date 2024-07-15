@@ -6,7 +6,8 @@
 
 <img src="https://github.com/user-attachments/assets/24e85de0-0a00-43ba-a59c-a0030accf47e"/><br>
 ## Additional information  
-Special thanks to https://t.me/hidden_coding and @AlexKrutoy  
+Special thanks to https://t.me/hidden_coding and @AlexKrutoy
+Bot for CEDEX-BOT, auto claim farm era only
 Fork provided as is  
 ## Recommendation before use
 
