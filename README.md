@@ -9,6 +9,10 @@
 Special thanks to https://t.me/hidden_coding and @AlexKrutoy  
 Bot for CEDEX-BOT, auto claim farm era only  
 Fork provided as is  
+Buy me coffee:  
+TON: UQDCQxSQlTsmQ1hN2MEWP_NDny85OMXsQsKecx59dtuJyaoi  
+USDT TRC20: TFKDZz4G4CvDByWJLzMERJp5umZfkvPxUW  
+
 ## Recommendation before use
 
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
