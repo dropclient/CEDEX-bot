@@ -5,9 +5,9 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cexio_tap_bot%3Fstart%3D1717162889191233)
 
 <img src="https://github.com/user-attachments/assets/24e85de0-0a00-43ba-a59c-a0030accf47e"/>
-
-<img src="https://github.com/AlexKrutoy/CEX.IO-bot/assets/65369825/3d216564-546d-46c8-bf25-d1fbf50dd0fd" width="600" height="700"/>
-
+## Additional information
+Special thanks to https://t.me/hidden_coding and @AlexKrutoy
+Fork provided as is
 ## Recommendation before use
 
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
@@ -18,13 +18,8 @@
 | Feature                                                     | Supported  |
 |---------------------------------------------------------------|:----------------:|
 | Multithreading                                                |        ✅        |
-| Proxy binding to session                                      |        ✅        |
-| Auto-Click coin                                               |        ✅        |
 | Auto-Start abd Auto-Claim farm                                |        ✅        |
-| Specify number of taps                                        |        ✅        |
 | Auto-claim squad reward                                       |        ✅        |
-| Auto-start, auto-check and auto-claim tasks                   |        ✅        |
-| Auto referral                                                 |        ✅        |
 | Support for tdata / pyrogram .session / telethon .session     |        ✅        |
 
 
@@ -33,11 +28,7 @@
 |--------------------------|:---------------------------------------------------------------------------------------------:|
 | **API_ID / API_HASH**    | Platform data from which to run the Telegram session (default - android)                     |
 | **FARM_MINING_ERA**      | Whether to automatically start the farm (e.g. True)                                          |                                
-| **TAPS**                 | Whether to auto-click the coin (e.g. True)                                                   |
-| **TAPS_AMOUNT**          | How many taps will be clicked (e.g. [100, 1000])                                             |
 | **CLAIM_SQUAD_REWARD**   | Auto claim squad rewards (e.g. True)                                                         |
-| **CLAIM_TASKS**          | Auto tasks (one time) ((eg. True))                                                           |
-| **REF_ID**               | Argument from referral bot link after ?start={argument}                                      |
 | **USE_PROXY_FROM_FILE**  | Whether to use a proxy from the bot/config/proxies.txt file (True / False)                   |
 
 ## Quick Start 📚
@@ -54,10 +45,10 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/AlexKrutoy/CEX.IO-bot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/dropclient/CEDEX-bot/) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/AlexKrutoy/CEX.IO-bot.git
-cd CEX.IO-bot
+git clone https://github.com/dropclient/CEDEX-bot.git
+cd CEDEX-bot
 ```
 
 Then you can do automatic installation by typing:
@@ -84,9 +75,9 @@ python3 main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/CEX.IO-bot >>> python3 main.py --action (1/2)
+~/CEDEX-bot >>> python3 main.py --action (1/2)
 # Or
-~/CEX.IO-bot >>> python3 main.py -a (1/2)
+~/CEDEX-bot >>> python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -104,9 +95,9 @@ python main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/CEX.IO-bot >>> python main.py --action (1/2)
+~/CEDEX-bot >>> python main.py --action (1/2)
 # Or
-~/CEX.IO-bot >>> python main.py -a (1/2)
+~/CEDEX-bot >>> python main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -117,5 +108,5 @@ You can also use arguments for quick start, for example:
 
 ### Contacts
 
-For support or questions, contact me on Telegram: [@UNKNXWNPLXYA](https://t.me/UNKNXWNPLXYA)
+For support or questions - https://t.me/hidden_codding_chat
 
